@@ -9,7 +9,11 @@
 ```sh
 npm install
 
-## Run the Application
+npm install axios
+
+```
+
+## 2.Run the Application
 
 ```sh
 npm start
